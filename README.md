@@ -1,4 +1,16 @@
-## Hi there 👋
+# Xiaokang Yu
+
+Mathematics undergraduate at Imperial College London.
+
+**Research Interests:** Scientific Computing, Machine Learning, Applied Mathematics, and Statistics.
+
+## Academic Projects
+
+Some of projects and research work will be added here.
+
+## Technical Skills
+
+Python · Lean 4 · SQL## Hi there 👋
 
 <!--
 **tyleryxk/tyleryxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
